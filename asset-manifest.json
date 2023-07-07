@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/increser_programmer_akshay/static/css/main.80fc5897.css",
+    "main.js": "/increser_programmer_akshay/static/js/main.f9f5744d.js",
+    "static/js/787.bad10299.chunk.js": "/increser_programmer_akshay/static/js/787.bad10299.chunk.js",
+    "index.html": "/increser_programmer_akshay/index.html",
+    "main.80fc5897.css.map": "/increser_programmer_akshay/static/css/main.80fc5897.css.map",
+    "main.f9f5744d.js.map": "/increser_programmer_akshay/static/js/main.f9f5744d.js.map",
+    "787.bad10299.chunk.js.map": "/increser_programmer_akshay/static/js/787.bad10299.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80fc5897.css",
+    "static/js/main.f9f5744d.js"
+  ]
+}
