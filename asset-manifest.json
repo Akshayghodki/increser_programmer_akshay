@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/increser_programmer_akshay/static/css/main.80fc5897.css",
-    "main.js": "/increser_programmer_akshay/static/js/main.f9f5744d.js",
-    "static/js/787.bad10299.chunk.js": "/increser_programmer_akshay/static/js/787.bad10299.chunk.js",
-    "index.html": "/increser_programmer_akshay/index.html",
-    "main.80fc5897.css.map": "/increser_programmer_akshay/static/css/main.80fc5897.css.map",
-    "main.f9f5744d.js.map": "/increser_programmer_akshay/static/js/main.f9f5744d.js.map",
-    "787.bad10299.chunk.js.map": "/increser_programmer_akshay/static/js/787.bad10299.chunk.js.map"
+    "main.css": "/TextUtills_programmer_akshay/static/css/main.073c9b0a.css",
+    "main.js": "/TextUtills_programmer_akshay/static/js/main.7bcfdb69.js",
+    "static/js/787.bad10299.chunk.js": "/TextUtills_programmer_akshay/static/js/787.bad10299.chunk.js",
+    "index.html": "/TextUtills_programmer_akshay/index.html",
+    "main.073c9b0a.css.map": "/TextUtills_programmer_akshay/static/css/main.073c9b0a.css.map",
+    "main.7bcfdb69.js.map": "/TextUtills_programmer_akshay/static/js/main.7bcfdb69.js.map",
+    "787.bad10299.chunk.js.map": "/TextUtills_programmer_akshay/static/js/787.bad10299.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.80fc5897.css",
-    "static/js/main.f9f5744d.js"
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7bcfdb69.js"
   ]
 }
